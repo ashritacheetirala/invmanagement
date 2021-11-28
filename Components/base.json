@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "01",
+    "name": "Iphone",
+    "model": "13 Pro Max",
+    "manufacturer": "Apple",
+    "price": { "$numberDecimal": "540.99" },
+    "quantity": { "$numberInt": "13" },
+    "location": { "$numberLong": "60611" }
+  },
+  {
+    "_id": "02",
+    "name": "Iphone",
+    "model": "12",
+    "manufacturer": "Apple",
+    "price": { "$numberDecimal": "359.99" },
+    "quantity": { "$numberInt": "23" },
+    "location": { "$numberLong": "65611" }
+  },
+  {
+    "_id": "03",
+    "name": "Iphone",
+    "model": "12 Mini",
+    "manufacturer": "Apple",
+    "price": { "$numberDecimal": "299.99" },
+    "quantity": { "$numberInt": "27" },
+    "location": { "$numberLong": "60611" }
+  }
+]
